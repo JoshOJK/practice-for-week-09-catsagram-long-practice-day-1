@@ -1,0 +1,31 @@
+img {
+    display: flex;
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+#newCat {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+}
+
+#up {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+#down {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
